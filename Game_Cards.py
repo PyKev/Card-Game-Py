@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct 23 00:13:18 2022
-
-@author: KEVIN
-"""
-
 from tkinter import Tk, Label, Button
 import random
 
