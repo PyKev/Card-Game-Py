@@ -1,26 +1,26 @@
-# Juego de Cartas
+# Card Game
 
-Este es un juego de cartas simple implementado usando la biblioteca Tkinter en Python.
+This is a simple card game implemented using the Tkinter library in Python.
 
-## Instrucciones
+## Instructions
 
-1. Ejecuta el script usando Python.
-2. El juego mostrará la carta actual y su valor.
-3. Haz clic en el botón "Menor" si crees que la siguiente carta tendrá un valor más bajo.
-4. Haz clic en el botón "Mayor" si crees que la siguiente carta tendrá un valor más alto.
-5. El juego comparará los valores de la carta actual y la siguiente.
-6. Si aciertas, el juego mostrará la siguiente carta y su valor.
-7. Si te equivocas, el juego mostrará "Perdiste" y desactivará los botones.
-8. Haz clic en el botón "Intentar de nuevo" para reiniciar el juego.
-9. El juego llevará un registro de tus puntajes, mostrando el último puntaje y el puntaje máximo alcanzado.
+1. Run the script using Python.
+2. The game will display the current card and its value.
+3. Click the "Menor" (Lower) button if you think the next card will have a lower value.
+4. Click the "Mayor" (Higher) button if you think the next card will have a higher value.
+5. The game will compare the values of the current card and the next card.
+6. If you guess correctly, the game will display the next card and its value.
+7. If you guess incorrectly, the game will display "Perdiste" (You lose) and disable the buttons.
+8. Click the "Intentar de nuevo" (Try again) button to restart the game.
+9. The game will keep track of your scores, showing the last score and the highest score achieved.
 
-## Requisitos
+## Requirements
 
 - Python
-- Biblioteca Tkinter
+- Tkinter library
 
-## Cómo Ejecutar
+## How to Run
 
-1. Asegúrate de tener Python instalado.
-2. Instala la biblioteca Tkinter si aún no está instalada: `pip install tk`.
-3. Ejecuta el script del juego de cartas.
+1. Make sure you have Python installed.
+2. Install the Tkinter library if it's not already installed: `pip install tk`.
+3. Run the card game script.
